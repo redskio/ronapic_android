@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">로나픽</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">로나픽</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="travel_title0">월드컵 평화공원</string>
+    <string name="travel_title1">난지천 한강공원</string>
+    <string name="travel_title2">윤동주 문학관</string>
+    <string name="travel_title3">안중근 기념관</string>
+    <string name="travel_title4">광진교 8번가</string>
+    <string name="title_activity_guide">GuideActivity</string>
+    <string name="tab_text_1">설명</string>
+    <string name="tab_text_2">픽업장소</string>
+    <string name="tab_text_3">포토존</string>
+    <string name="tab_text_4">코스 추천</string>
+    <string name="tab_text_5">주변 추천</string>
+
+</resources>
